@@ -4,8 +4,8 @@
 # ===============================================================================================
 # Here we are receiving two numbers and the type of operation from the user, 
 # then storing them in variables to use later in the calculation
-number1 = float(input("Enter the first number : "))
-number2 = float(input("Enter the second number: "))
+number1 = int(input("Enter the first number : "))
+number2 = int(input("Enter the second number: "))
 operation = input("Choose the operation (+, -, *, /): ")
 # ===============================================================================================
 
