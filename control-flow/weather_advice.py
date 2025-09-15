@@ -5,6 +5,7 @@
 weather = input("What's the weather like today? (sunny/rainy/cold): ").lower()
 # ===============================================================================================
 
+
 # ===============================================================================================
 # Here we are using if, elif, and else statements to provide advice based on the weather condition 
 if weather == "sunny":
