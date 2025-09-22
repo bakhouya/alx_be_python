@@ -2,7 +2,7 @@
 # Here, we create a function that displays the program name 
 # and the instructions to the user, which they can follow in the program
 def display_menu():
-    print("\n--- Shopping List Manager ---")
+    print("Shopping List Manager")
     print("1. Add Item")
     print("2. Remove Item")
     print("3. View List")
