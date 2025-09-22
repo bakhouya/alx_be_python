@@ -52,7 +52,7 @@ def main():
             if shopping_list:
                 print("\n Your Shopping List:")
                 # her we loop through the shopping list and print each item with its index
-                for i, item in enumerate(shopping_list, start=1):
+                for i, item in shopping_list:
                     print(f"{i}. {item}")
             # If the shopping list is empty, we print a message indicating that 
             else:
