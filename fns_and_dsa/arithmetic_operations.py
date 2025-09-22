@@ -2,7 +2,7 @@
 # ==============================================================================================
 # Here we have a function called perform_operation that takes 3 arguments: number1, number2, 
 # and operation. Both number1 and number2 are floats, while operation is a string."
-def perform_operation(num1 , num2, operation):
+def perform_operation(num1, num2, operation):
     # If the operation is 'add', meaning addition, we return the sum of number1 and number2
     if operation == "add":
         return num1 + num2 
